@@ -29,13 +29,10 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="anastahir84" width="100%"/>
 
+
 # 📊 GitHub Stats:
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anastahir84&show_icons=true&locale=en&layout=compact" alt="anastahir84" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anastahir84&show_icons=true&locale=en" alt="anastahir84" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anastahir84&" alt="anastahir84" background-color="black" /></p>
+![](https://github-readme-stats.vercel.app/api?username=AnasTahir84&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnasTahir84&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasTahir84&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img align="center" src="https://user-images.githubusercontent.com/117486085/209233518-d0f390f9-3b79-47ae-bb89-61918d378008.gif" alt="anastahir84" />
