@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas Tahir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-(img alt="Coding" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif")
+
+<img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="anastahir84" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anastahir84&label=Profile%20views&color=0e75b6&style=flat" alt="anastahir84" /> </p>
 
